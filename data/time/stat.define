@@ -1,0 +1,6 @@
+#定义输出变量
+#varname	varlife(1:long,2:session,2:scene,4:request)
+SCE:time
+
+day	4
+date	4

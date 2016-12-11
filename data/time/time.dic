@@ -1,0 +1,15 @@
+TAG:day
+今天
+明天
+后天
+昨天
+前天
+
+TAG:date
+星期一	{"normal":"monday"}
+星期二	{"normal":"tuesday"}
+星期三	{"normal":"wednesay"}
+星期四	{"normal":"thursday"}
+星期五	{"normal":"friday"}
+星期六	{"normal":"saturday"}
+星期日	{"normal":"sunday"}

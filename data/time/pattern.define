@@ -1,0 +1,12 @@
+#定义pattern
+SCE:time
+
+##eg:今天星期六
+GID:10001
+PAT:$[day]$[date]	50
+IF:
+	$[TAG_TXT date]~=nil and $[TAG_TXT day]~=nil
+THEN:
+	$[time::day]=$[TAG_TXT day]
+	$[time::date]=$[TAG_JV date::normal]
+END

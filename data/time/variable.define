@@ -1,0 +1,4 @@
+#定义书写pattern需要的变量
+#varname	tagnames	weight
+$[day]	day	100
+$[date]	date	100

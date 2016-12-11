@@ -1,0 +1,5 @@
+2016-12-11 09:52:08  [ main:405 ] - [ INFO ]  this is a test.
+2016-12-11 09:52:08  [ main:431 ] - [ ERROR ]  error
+java.lang.NullPointerException
+	at intention.recongnizeEngine.doProcess(recongnizeEngine.java:202)
+	at intention.recongnizeEngine.main(recongnizeEngine.java:273)
